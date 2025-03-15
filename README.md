@@ -26,7 +26,7 @@ npm install
 ```
 ### 3️⃣ Start the App
 ```bash
-expo start
+npm expo start
 ```
 
 ## 📌 Why You'll Love This App
