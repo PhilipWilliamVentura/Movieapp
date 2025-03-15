@@ -17,7 +17,7 @@
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/movieverse.git
+git clone https://github.com/PhilipWilliamVentura/movieverse.git
 cd movieverse
 ```
 ### 2️⃣ Install Dependencies
